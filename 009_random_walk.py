@@ -42,6 +42,7 @@ class RandomWalk():
 if __name__ == '__main__':
     # Only run this code if this is executed explicitly
     # I did this so I could reuse the class RandomWalk later on
+    # Edit: It ended up being useless because the filename starts with a number
     
     # Create and fill the walk set
     rw = RandomWalk()
